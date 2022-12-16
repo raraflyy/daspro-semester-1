@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.AssemblyInfo.cs
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BATTLE TANK\bin\Debug\net6.0\BATTLE TANK.exe
+C:\Users\hp\Desktop\BATTLE TANK\bin\Debug\net6.0\BATTLE TANK.deps.json
+C:\Users\hp\Desktop\BATTLE TANK\bin\Debug\net6.0\BATTLE TANK.runtimeconfig.json
+C:\Users\hp\Desktop\BATTLE TANK\bin\Debug\net6.0\BATTLE TANK.dll
+C:\Users\hp\Desktop\BATTLE TANK\bin\Debug\net6.0\BATTLE TANK.pdb
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.dll
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\refint\BATTLE TANK.dll
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.pdb
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\BATTLE TANK.genruntimeconfig.cache
+C:\Users\hp\Desktop\BATTLE TANK\obj\Debug\net6.0\ref\BATTLE TANK.dll

@@ -1,0 +1,30 @@
+C:\Users\hp\Desktop\vcode\bin\Debug\net6.0\vcode.exe
+C:\Users\hp\Desktop\vcode\bin\Debug\net6.0\vcode.deps.json
+C:\Users\hp\Desktop\vcode\bin\Debug\net6.0\vcode.runtimeconfig.json
+C:\Users\hp\Desktop\vcode\bin\Debug\net6.0\vcode.dll
+C:\Users\hp\Desktop\vcode\bin\Debug\net6.0\vcode.pdb
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.AssemblyInfo.cs
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.dll
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\refint\vcode.dll
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.pdb
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\vcode.genruntimeconfig.cache
+C:\Users\hp\Desktop\vcode\obj\Debug\net6.0\ref\vcode.dll
+C:\Users\hp\Desktop\vcode T2\bin\Debug\net6.0\vcode.exe
+C:\Users\hp\Desktop\vcode T2\bin\Debug\net6.0\vcode.deps.json
+C:\Users\hp\Desktop\vcode T2\bin\Debug\net6.0\vcode.runtimeconfig.json
+C:\Users\hp\Desktop\vcode T2\bin\Debug\net6.0\vcode.dll
+C:\Users\hp\Desktop\vcode T2\bin\Debug\net6.0\vcode.pdb
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.AssemblyInfo.cs
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.dll
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\refint\vcode.dll
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.pdb
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\vcode.genruntimeconfig.cache
+C:\Users\hp\Desktop\vcode T2\obj\Debug\net6.0\ref\vcode.dll

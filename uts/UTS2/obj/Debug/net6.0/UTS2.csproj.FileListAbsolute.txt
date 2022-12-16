@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\UTS2\bin\Debug\net6.0\UTS2.exe
+C:\Users\User\Desktop\UTS2\bin\Debug\net6.0\UTS2.deps.json
+C:\Users\User\Desktop\UTS2\bin\Debug\net6.0\UTS2.runtimeconfig.json
+C:\Users\User\Desktop\UTS2\bin\Debug\net6.0\UTS2.dll
+C:\Users\User\Desktop\UTS2\bin\Debug\net6.0\UTS2.pdb
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.AssemblyInfo.cs
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.dll
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\refint\UTS2.dll
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.pdb
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\UTS2.genruntimeconfig.cache
+C:\Users\User\Desktop\UTS2\obj\Debug\net6.0\ref\UTS2.dll
